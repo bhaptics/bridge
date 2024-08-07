@@ -1,0 +1,5 @@
+# Ignore YAML files
+*.yaml
+
+# Ignore blockmap files
+*.blockmap
