@@ -3,7 +3,10 @@
 ![GitHub Release](https://img.shields.io/github/v/release/bhaptics/bridge)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/bhaptics/bridge/total)
 
-bHaptics Bridge captures real-time game statuses and sends haptic feedback to TactSuit devices. It currently supports the following games: Fortnite and Rocket League.
+- bHaptics Bridge captures real-time game statuses and sends haptic feedback to TactSuit devices.
+-  It currently supports the following games: Fortnite and Rocket League.
+
+    <img src="https://i.imgur.com/lG525K4.gif" width="350">
 
 ## How to Install
 
@@ -20,3 +23,5 @@ bHaptics Bridge captures real-time game statuses and sends haptic feedback to Ta
    - bHaptics Bridge will automatically detect the game a few seconds after it launches.
    - Once connected successfully, you will see "Rocket League" or "Fortnite" listed in the connection settings of bHaptics Player.
    - If random text appears instead of the game name, close the game, bHaptics Player, and bHaptics Bridge, then try again.
+
+     <img src="https://i.imgur.com/gvGOD6o.gif" width="350">
